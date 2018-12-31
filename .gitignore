@@ -1,3 +1,4 @@
 venv
 .vscode
 pass.txt
+*.mp4
