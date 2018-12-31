@@ -4,7 +4,7 @@ In order to be more productive, one of my friends decided to ban youtube. Good f
 
 ## Prerequisites
 
-I use [streamable](https://streamable.com/) to upload videos too, and you may [note](https://streamable.com/documentation) that you need an account for that. So, you will need to make an account and put the username/password in a file called `pass.txt` with the first line being your username and the next line being your streamable password.  
+I use [streamable](https://streamable.com/) to upload videos to, and you may [note](https://streamable.com/documentation) that you need an account for that. So, you will need to make an account and put the username/password in a file called `pass.txt` with the first line being your username and the next line being your streamable password.  
 Example: 
 ```
 user@email.com
