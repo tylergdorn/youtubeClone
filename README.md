@@ -12,6 +12,9 @@ password
 ```
 I don't steal your login! promise!
 
+after that you should pip install the requirements by diong the following: `pip install -r requirements.txt`
+You may want to do this in a venv but you don't need to.
+
 ## Example Usage
 
 `python3 y2streamable.py https://www.youtube.com/watch?v=taWzoLpdxaI`  
